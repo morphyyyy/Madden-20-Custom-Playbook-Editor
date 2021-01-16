@@ -1,5 +1,7 @@
 # M20PlaybookEditor
 
+exe is located in 
+
 This playbook editor currently only supports custom playbooks.  It is in beta state with limited functionality, so bugs are possible, but it is relatively stable.
 
 There is limited undo ability and no Save As feature, so it would be a good idea to create backups before editing.
